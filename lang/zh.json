@@ -1,0 +1,15 @@
+{
+    "mod_path_error":"模组路径未找到！",
+    "delete_mod_error":"删除模组失败: ",
+    "copy":"复制: ",
+    "copy_failed":"复制失败: ",
+    "deleted_failed":"删除失败: ",
+    "welcome_text":["模组路径: ","加载完毕","网易杀手 v1"],
+    "start_search":"开始搜索模组",
+    "searching":"搜索模组中",
+    "mod_deleted":"已删除模组",
+    "start_copy":"开始复制模组",
+    "too_many_mod":"模组数量过多！",
+    "copy_success":"复制成功",
+    "copy_error":"复制错误: "
+}

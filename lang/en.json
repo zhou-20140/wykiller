@@ -1,0 +1,15 @@
+{
+    "mod_path_error":"mod path not found!",
+    "delete_mod_error":"Error deleting mod: ",
+    "copy":"copy: ",
+    "copy_failed":"copy failed: ",
+    "deleted_failed":"deleted failed: ",
+    "welcome_text":["modpath: ","load complete","wykiller v1"],
+    "start_search":"start search",
+    "searching":"searching mod",
+    "mod_deleted":"deleted ",
+    "start_copy":"start copy mod",
+    "too_many_mod":"too many mod!",
+    "copy_success":"copy success",
+    "copy_error":"copy error: "
+}
